@@ -1,0 +1,6 @@
+{
+  "name": "Origi Canvas — Studio Graphique & Création Éditoriale",
+  "description": "Plateforme de création et de design graphique ultra-précise inspirée de Canva et de l'identité visuelle éditoriale d'Origi Framer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
